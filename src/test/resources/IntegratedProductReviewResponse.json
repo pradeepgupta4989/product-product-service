@@ -1,0 +1,648 @@
+{
+    "productID": "M20324",
+    "reviews": [
+        {
+            "reviewId": "review_1234",
+            "reviewComment": "Awesome Product",
+            "rating": 3.5
+        },
+        {
+            "reviewId": "qw1235",
+            "reviewComment": "Need some improvement",
+            "rating": 2
+        }
+    ],
+    "externalReview": {
+        "id": "M20324",
+        "model_number": "ION05",
+        "name": "Stan Smith Shoes",
+        "meta_data": {
+            "canonical": "//www.adidas.co.uk/stan-smith-shoes/M20324.html",
+            "description": "Shop for Stan Smith Shoes - White at adidas.co.uk! See all the styles and colours of Stan Smith Shoes - White at the official adidas UK online store.",
+            "keywords": "Stan Smith Shoes",
+            "page_title": "adidas Stan Smith Shoes - White | adidas UK",
+            "site_name": "adidas United Kingdom"
+        },
+        "product_type": "inline",
+        "product_description": {
+            "title": "Stan Smith Shoes",
+            "subtitle": "An authentic version of the iconic 1972 tennis classic.",
+            "text": "Created in 1971 for tennis star Stan Smith, this clean-cut shoe holds a special place in style history. A smooth full grain leather upper with perforated 3-Stripes and tonal rubber outsole have made this low top into a celebrated sneaker icon.",
+            "description_assets": {
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/eb638fce8b4f4678b40aa80e00818f3a_9366/Stan_Smith_Shoes_White_M20324.jpg",
+                "video_url": null,
+                "poster_url": null
+            },
+            "usps": [
+                "Premium soft leather upper",
+                "Lace closure",
+                "Full grain leather upper",
+                "Rubber cupsole; Leather lining",
+                "Enjoy the comfort and performance of OrthoLite® sockliner",
+                "Rubber cupsole"
+            ],
+            "wash_care_instructions": {
+                "care_instructions": []
+            },
+            "product_highlights": [
+                {
+                    "copy": "True to its original design, the Stan Smith's classic silhouette has endured sneaker style for over four decades.",
+                    "headline": "Timeless design",
+                    "image_reference": "https://assets.adidas.com/images/w_600,f_auto,q_auto/ceeb2ffe34ad4d13ad12aaf10159f008_9366/Stan_Smith_Shoes_White_M20324.jpg"
+                },
+                {
+                    "copy": "This classic shoe embodies a universal style and minimalist design that doesn't need attention to do its job.",
+                    "headline": "Versatile styling",
+                    "image_reference": "https://assets.adidas.com/images/w_600,f_auto,q_auto/38aab860a3094783a598aaf10159ec91_9366/Stan_Smith_Shoes_White_M20324.jpg"
+                },
+                {
+                    "copy": "Stan Smith logos on the tongue and heel tab are paired with three perforated stripes.",
+                    "headline": "Classic details",
+                    "image_reference": "https://assets.adidas.com/images/w_600,f_auto,q_auto/3cffdf6fa1484d739f79aaf10159ea14_9366/Stan_Smith_Shoes_White_M20324.jpg"
+                }
+            ]
+        },
+        "recommendationsEnabled": true,
+        "pricing_information": {
+            "standard_price": 75,
+            "standard_price_no_vat": 62.5,
+            "currentPrice": 75
+        },
+        "attribute_list": {
+            "collection": [
+                "Archive",
+                "Mini Me",
+                "Valentines Day",
+                "Gifts",
+                "BS",
+                "Best sellers",
+                "test_plp_1",
+                "test_plp_2",
+                "test_plp_3",
+                "test_plp_4",
+                "test_plp_5",
+                "test_plp_6",
+                "test_plp_7",
+                "test_plp_8"
+            ],
+            "productType": [
+                "Trainers",
+                "Lifestyle Trainers"
+            ],
+            "sport": [
+                "Lifestyle"
+            ],
+            "sportSub": [
+                "Stan Smith",
+                "Classics"
+            ],
+            "isInPreview": false,
+            "customizable": false,
+            "isCnCRestricted": false,
+            "isWaitingRoomProduct": false,
+            "mandatory_personalization": false,
+            "outlet": false,
+            "personalizable": true,
+            "sale": false,
+            "specialLaunch": false,
+            "special_launch_type": "NONE",
+            "gender": "U",
+            "category": "Shoes",
+            "search_color": "White",
+            "search_color_raw": "White",
+            "brand": "Originals",
+            "color": "Footwear White / Core White / Green",
+            "pricebook": "adidas-GB-listprices",
+            "hashtag": "stansmith",
+            "coming_soon_signup": false,
+            "preview_to": "2012-12-11T22:00:00.000Z",
+            "size_chart_link": "/on/demandware.store/Sites-adidas-GB-Site/en_GB/Page-Include?cid=size-chart-size-shoes"
+        },
+        "product_link_list": [
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/CQ2870.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/40d2da62142f4728b01aa81601109a4e_9366/Stan_Smith_Shoes_White_CQ2870_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw7231bdb6/zoom/CQ2870_02_hover_frv.jpg",
+                "pricing_information": {
+                    "standard_price": 75
+                },
+                "default_color": "Cloud White / Cloud White / Noble Ink",
+                "search_color": "White",
+                "productId": "CQ2870",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/CQ2871.html",
+                "pricing_information": {
+                    "standard_price": 75
+                },
+                "default_color": "Cloud White / Cloud White / Collegiate Green",
+                "search_color": "White",
+                "productId": "CQ2871",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/70b4d87304f945b087fca81700a0ba93_9366/Stan_Smith_Shoes_White_CQ2871_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/EF5004.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/e7d10bfc00ce4fbb99f5ab29011602c9_9366/Stan_Smith_Shoes_White_EF5004_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dwa35a1939/zoom/EF5004_010_hover_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Savanna / Raw Desert",
+                "search_color": "White",
+                "productId": "EF5004",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/EF5005.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/2b5834ffa50c42ad8a6aab3001052d81_9366/Stan_Smith_Shoes_White_EF5005_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dwd29f6095/zoom/EF5005_010_hover_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Mystery Ruby / Maroon",
+                "search_color": "White",
+                "productId": "EF5005",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/EF5009.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/0097ca1000e840b29dcfab3001057266_9366/Stan_Smith_Shoes_White_EF5009_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw7600cd28/zoom/EF5009_010_hover_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Linen Green / Green Tint",
+                "search_color": "White",
+                "productId": "EF5009",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FU9609.html",
+                "pricing_information": {
+                    "standard_price": 74.95
+                },
+                "default_color": "Cloud White / Cloud White / Green",
+                "search_color": "White",
+                "productId": "FU9609",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/346234afc6624c3cab59ab7300cc9c57_9366/Stan_Smith_Shoes_White_FU9609_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FV0534.html",
+                "pricing_information": {
+                    "standard_price": 84.95
+                },
+                "default_color": "Cloud White / Off White / Green",
+                "search_color": "White",
+                "productId": "FV0534",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/b6a8eff33d3e4cf2b117ab7300cce8a7_9366/Stan_Smith_Shoes_White_FV0534_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FV4086.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a267148947314d8c8807ab3800bb297b_9366/Stan_Smith_Shoes_White_FV4086_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dwe0eeb0a8/zoom/FV4086_02_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 89.95,
+                    "sale_price": 62.97
+                },
+                "default_color": "Cloud White / Off White / Collegiate Navy",
+                "search_color": "White",
+                "productId": "FV4086",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FV4146.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a2891c89c6be460eaf83ab3800bb69b1_9366/Stan_Smith_Shoes_White_FV4146_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw01015167/zoom/FV4146_02_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 89.95,
+                    "sale_price": 62.97
+                },
+                "default_color": "Cloud White / Off White / Scarlet",
+                "search_color": "White",
+                "productId": "FV4146",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FW3273.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/011037d34cb940e0b339ab8200e52868_9366/Stan_Smith_Shoes_White_FW3273_01_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Core Black / Yellow",
+                "search_color": "White",
+                "productId": "FW3273",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FW4424.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Off White / Collegiate Navy / Collegiate Navy",
+                "search_color": "White",
+                "productId": "FW4424",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7ae96f7a0ac6403b82e1abd601570109_9366/Stan_Smith_Shoes_White_FW4424_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FY0040.html",
+                "pricing_information": {
+                    "standard_price": 89.95
+                },
+                "default_color": "Cloud White / Crystal White / Off White",
+                "search_color": "White",
+                "productId": "FY0040",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/000a669061a74d85a41eabdd00a203a9_9366/Stan_Smith_Shoes_White_FY0040_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FY0070.html",
+                "pricing_information": {
+                    "standard_price": 89.95
+                },
+                "default_color": "Core Black / Core Black / Off White",
+                "search_color": "Black",
+                "productId": "FY0070",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9e27628bd4e642df89f6abe201828fe6_9366/Stan_Smith_Shoes_Black_FY0070_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FY2839.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Cloud White / Scarlet",
+                "search_color": "White",
+                "productId": "FY2839",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/32cf961189dc4dcb9063abf7009e0f00_9366/Stan_Smith_Shoes_White_FY2839_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FY6657.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Core Black / Talc",
+                "search_color": "White",
+                "productId": "FY6657",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6452405b5ef448ec8cbbabdf00b25e7b_9366/Stan_Smith_Shoes_White_FY6657_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3476.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Cloud White / Collegiate Navy / Bliss",
+                "search_color": "White",
+                "productId": "FZ3476",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1be0a125d7874d159226abe300066fa4_9366/Stan_Smith_Shoes_White_FZ3476_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3477.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "badge_text": "Exclusive",
+                "badge_style": "custom",
+                "default_color": "Core Black / Core Black / Raw Desert",
+                "search_color": "Black",
+                "productId": "FZ3477",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8f8ea3062b214c85894dabd80127fd8f_9366/Stan_Smith_Shoes_Black_FZ3477_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3551.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "badge_text": "Exclusive",
+                "badge_style": "custom",
+                "default_color": "Cardboard / Cardboard / Savanna",
+                "search_color": "Brown",
+                "productId": "FZ3551",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/13fac48bb94e40fb8638abe30007eace_9366/Stan_Smith_Shoes_Brown_FZ3551_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3552.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "badge_text": "Exclusive",
+                "badge_style": "custom",
+                "default_color": "Raw Khaki / Feather Grey / Night Cargo",
+                "search_color": "Green",
+                "productId": "FZ3552",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/a20edb3ab5ad40ae93a7abe300083fc7_9366/Stan_Smith_Shoes_Green_FZ3552_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3644.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "default_color": "Linen / Linen / Cloud White",
+                "search_color": "Beige",
+                "productId": "FZ3644",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/393897328f83478b8ba4abea00d455a9_9366/Stan_Smith_Shoes_Beige_FZ3644_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/FZ3815.html",
+                "pricing_information": {
+                    "standard_price": 74.95,
+                    "sale_price": 52.47
+                },
+                "badge_text": "Sold out",
+                "badge_style": "soldout",
+                "default_color": "Cloud White / Cloud White / Core Black",
+                "search_color": "White",
+                "productId": "FZ3815",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f032945ef9e74525a4f9abaa0116bf47_9366/Stan_Smith_Shoes_White_FZ3815_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Pharrell Williams Stan Smith Shoes",
+                "url": "/pharrell-williams-stan-smith-shoes/GY4980.html",
+                "pricing_information": {
+                    "standard_price": 90
+                },
+                "badge_text": "New",
+                "badge_style": "new",
+                "default_color": "Core Black / Core Black / Core Black",
+                "search_color": "Black",
+                "productId": "GY4980",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/823c223fe4a04e8d8217ac86015673f4_9366/Pharrell_Williams_Stan_Smith_Shoes_Black_GY4980_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/M20325.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/4edaa6d5b65a40d19f20a7fa00ea641f_9366/Stan_Smith_Shoes_White_M20325_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw93d9e972/zoom/M20325_010_hover_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 75
+                },
+                "default_color": "Core White / Dark Blue / Dark Blue",
+                "search_color": "White",
+                "productId": "M20325",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/M20327.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/bc6ff011cbfe4b18bc56a7fa00eaddfc_9366/Stan_Smith_Shoes_Black_M20327_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dw1a9c567c/zoom/M20327_02_hover_frv.jpg",
+                "pricing_information": {
+                    "standard_price": 75
+                },
+                "default_color": "Core Black / Core Black / Core Black",
+                "search_color": "Black",
+                "productId": "M20327",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "color-variation",
+                "name": "Stan Smith Shoes",
+                "url": "/stan-smith-shoes/S75104.html",
+                "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/deecebcc265c43c6b092a7fa00fed2d0_9366/Stan_Smith_Shoes_White_S75104_01_standard.jpg",
+                "altImage": "//www.adidas.co.uk/dw/image/v2/aagl_prd/on/demandware.static/-/Sites-adidas-products/default/dwde1f2b93/zoom/S75104_010_hover_standard.jpg",
+                "pricing_information": {
+                    "standard_price": 75
+                },
+                "default_color": "Footwear White / Cloud White / Cloud White",
+                "search_color": "White",
+                "productId": "S75104",
+                "source": "CLOUDINARY"
+            }
+        ],
+        "view_list": [
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/69721f2e7c934d909168a80e00818569_9366/Stan_Smith_Shoes_White_M20324_01_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "videoasset",
+                "image_url": "https://assets.adidas.com/videos/w_600,f_auto,q_auto/b2a810011cfe471ba6d9aa8c00fb7fc3_d98c/Stan_Smith_Shoes_White_M20324_video.jpg",
+                "video_url": "https://assets.adidas.com/videos/t_videomain/b2a810011cfe471ba6d9aa8c00fb7fc3_d98c/Stan_Smith_Shoes_White_M20324_video.mp4",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "other",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f7f13f58f83e46698f15aacb01622c54_9366/Stan_Smith_Shoes_White_M20324_HM1_hover.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "other",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/42398e1fbd7546669830aacb014a02f3_9366/Stan_Smith_Shoes_White_M20324_HM2.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "other",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/9b7ac0a67fd84c099522aacb01522f4a_9366/Stan_Smith_Shoes_White_M20324_HM3.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "other",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/04887002eb7947c291a2aacb0165c9d9_9366/Stan_Smith_Shoes_White_M20324_HM4.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "other",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/18172395b7ca45b596a2aacb01672f66_9366/Stan_Smith_Shoes_White_M20324_HM5.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/7bc16c0933f849a1bbeba3470047af60_9366/Stan_Smith_Shoes_White_M20324_02_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8279e1e982284860b38da3470047ab6d_9366/Stan_Smith_Shoes_White_M20324_03_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/eb638fce8b4f4678b40aa80e00818f3a_9366/Stan_Smith_Shoes_White_M20324_04_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8ce27a7891ad4a44b9f2a80e00819188_9366/Stan_Smith_Shoes_White_M20324_05_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/578fc42585f84690a0f0a80e008188cf_9366/Stan_Smith_Shoes_White_M20324_06_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "standard",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b9f0b3fb4af47259912aa9b010d82db_9366/Stan_Smith_Shoes_White_M20324_07_standard.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "detail",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/71a83ee6b8824631bc88a3470047bb7f_9366/Stan_Smith_Shoes_White_M20324_41_detail.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "detail",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/1f43f422de5b4950abd9a3470047c05b_9366/Stan_Smith_Shoes_White_M20324_42_detail.jpg",
+                "source": "CLOUDINARY"
+            },
+            {
+                "type": "detail",
+                "image_url": "https://assets.adidas.com/images/w_600,f_auto,q_auto/5b6a617866bc450eb554a80e00828fc0_9366/Stan_Smith_Shoes_White_M20324_43_detail.jpg",
+                "source": "CLOUDINARY"
+            }
+        ],
+        "breadcrumb_list": [
+            {
+                "text": "Originals",
+                "link": "/originals"
+            },
+            {
+                "text": "Shoes",
+                "link": "/originals-shoes"
+            }
+        ],
+        "callouts": {
+            "callout_top_stack": [
+                {
+                    "id": "campaign_pdp_callout",
+                    "title": "Shop Now",
+                    "sub_title": "Unfortunately, delivery before Christmas is no longer possible. But we've got you covered! An adidas giftcard is the perfect surprise this Christmas.",
+                    "body": "<p><strong>Christmas giftcard?</strong></p>\r<p>Unfortunately, delivery before Christmas is no longer possible. But we've got you covered! An adidas giftcard is the perfect surprise this Christmas.</p>\n                  <p>&nbsp;</p>\r\r<p><strong><a href=\"/gift_cards\">Shop Now</a></strong></p>",
+                    "link_text": "Shop Now"
+                }
+            ],
+            "callout_bottom_stack": [
+                {
+                    "id": "pdp-callout-bottom",
+                    "iconID": "usp-delivery",
+                    "title": "Free delivery for Creators Club members",
+                    "body": "<p>Creators Club members temporarily unlock free delivery on any order. <a href=\"/account-register\">Sign up</a> or <a href=\"/account-login\">Login</a>.</p>\r\n\r\n<p>For non-members, spend over &pound;25 and delivery is free!</p>",
+                    "link_text": "Free delivery for Creators Club members"
+                },
+                {
+                    "id": "pdp-callout-bottom-2",
+                    "iconID": "exchange",
+                    "title": "100 days free returns & exchange",
+                    "body": "<p>Tried on your item(s) and need a different size? Exchange your item(s) within 100 days and have your perfect fit shipped for free.</p>\n\n<p>Or did you change your mind? You can also return your item(s) for free within 100 days for a full refund. Customised products are made just for you and therefore cannot be returned.</p>\n\n<p>Hype products<br />\nPlease note - some products with limited availability such as YEEZY can be returned for 30 days.</p>\n\n<p>Read more on <a href=\"/help/can-i-exchange-my-products.html\">Exchange</a><br />\nRead more on <a href=\"/help/how-do-i-return-my-products.html\">Return</a></p>",
+                    "link_text": "100 days free returns & exchange"
+                },
+                {
+                    "id": "pdp-callout-bottom-3",
+                    "title": "Buy now, pay in 3 instalments",
+                    "body": "<p><br />\r\nTry before you pay in full - pay in 3 easy instalments with Klarna.<br />\r\n<br />\r\n<ins><a href=\"https://www.adidas.co.uk/help/pay-in--instalments-with-klarna--how-does-it-work.html\">LEARN MORE</a></ins></p>",
+                    "link_text": "Buy now, pay in 3 instalments"
+                }
+            ]
+        },
+        "embellishment": {
+            "embellishmentOptions": [
+                {
+                    "position": "leftShoe",
+                    "positionPrice": 5,
+                    "allowChooseOwnText": true,
+                    "fields": [
+                        {
+                            "type": "text",
+                            "key": "leftShoeText",
+                            "maxLength": 11,
+                            "minLength": 0,
+                            "validation": "^[#@?&%$0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ ]*$",
+                            "textColor": "adidas - 402 Black",
+                            "usesStock": false,
+                            "stockCollection": null
+                        }
+                    ]
+                },
+                {
+                    "position": "rightShoe",
+                    "positionPrice": 5,
+                    "allowChooseOwnText": true,
+                    "fields": [
+                        {
+                            "type": "text",
+                            "key": "rightShoeText",
+                            "maxLength": 11,
+                            "minLength": 0,
+                            "validation": "^[#@?&%$0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZÄÖÜ ]*$",
+                            "textColor": "adidas - 402 Black",
+                            "usesStock": false,
+                            "stockCollection": null
+                        }
+                    ]
+                }
+            ],
+            "articleType": "footwear"
+        }
+    }
+}
