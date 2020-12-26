@@ -6,6 +6,7 @@ import lombok.*;
 @EqualsAndHashCode
 @Builder(toBuilder = true)
 @AllArgsConstructor(access = AccessLevel.PUBLIC)
+@NoArgsConstructor(access = AccessLevel.PUBLIC)
 public class Review {
     private String reviewId;
     private String reviewComment;
